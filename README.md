@@ -1,5 +1,4 @@
-﻿# 100DaysOfDevops-KodeKloud
-Linux Administration Labs – KodeKloud Engineer
+﻿Linux Administration Labs – KodeKloud Engineer
 📌 About
 This repository contains my hands-on Linux Administration practice completed as part of the KodeKloud Engineer labs and my #100DaysOfDevOps challenge.
 
