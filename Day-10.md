@@ -17,7 +17,7 @@ Following a security audit within the Stratos Datacenter, the Nautilus security 
 
 ---
 
-# 🏗️ Infrastructure
+#  Infrastructure
 
 | Server | Hostname |
 |---------|----------|
@@ -82,7 +82,7 @@ chmod
 setfacl
 getfacl
 ```
-# 🧠 Key Concepts Learned
+# Key Concepts Learned
 
 - Linux Access Control Lists (ACL)
 - File Ownership
