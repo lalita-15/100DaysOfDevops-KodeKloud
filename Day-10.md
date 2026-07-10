@@ -32,36 +32,36 @@ Following a security audit within the Stratos Datacenter, the Nautilus security 
 ssh steve@stapp02
 '''
 ---
-Step2: Switch to the Root User
+## Step2: Switch to the Root User
 
 '''
 sudo su -
 '''
 ---
-Step 3: Change the Ownership of File and Group
+## Step 3: Change the Ownership of File and Group
 '''
 chown root:root /etc/hosts
 '''
 ---
-Step 4: Give Read-Only Permission to Others 
+## Step 4: Give Read-Only Permission to Others 
 '''
 chmod o-r /etc/hosts
 '''
 ---
-Step 5: Remove All Permissions To User **anita**
+## Step 5: Remove All Permissions To User **anita**
 
 ***Here I need to browse how to remove all file permission to a specific user***
 '''
 setfacl -m u:anita:--- /etc/hosts
 '''
 ---
-Step 6: Give Read-On Permission to User **jerome**
+## Step 6: Give Read-On Permission to User **jerome**
 '''
 setfacl -m u:jerome:r-- /etc/hosts
 '''
 
 ---
-Step 7: Verify the ACL Configuration
+## Step 7: Verify the ACL Configuration
 '''
 getfacl /etc/hosts
 '''
