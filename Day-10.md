@@ -51,6 +51,7 @@ chmod o-r /etc/hosts
 ## Step 5: Remove All Permissions To User **anita**
 
 ***Here I need to browse how to remove all file permission to a specific user***
+
 '''
 setfacl -m u:anita:--- /etc/hosts
 '''
