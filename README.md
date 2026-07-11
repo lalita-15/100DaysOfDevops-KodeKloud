@@ -1,10 +1,10 @@
-﻿# 🚀 100DaysOfDevOps - KodeKloud Linux Labs
+﻿#  100DaysOfDevOps - KodeKloud Linux Labs
 
-Welcome to my **#100DaysOfDevOps** journey! 👋
+Welcome to my **#100DaysOfDevOps** journey! 
 
 This repository contains my hands-on Linux Administration practice through **KodeKloud Engineer** labs. Each day includes the problem statement, solution, commands used, and key concepts learned.
 
-## 📂 Labs Completed
+##  Labs Completed
 
 - ✅ Day 1 - Custom Apache User Creation
 - ✅ Day 2 - Group Creation and User Assignment
@@ -29,6 +29,6 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Linux Troubleshooting
 - Basic System Administration
 
-📈 **Progress:** **11/100 Days Completed** 🚀
+📈 **Progress:** **11/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
