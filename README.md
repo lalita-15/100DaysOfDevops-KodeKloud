@@ -17,6 +17,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 9 - Linux File Permissions
 - ✅ Day 10 - Linux Access Control Lists (ACL)
 - ✅ Day 11 - XML String Replacement using `sed`
+- ✅ Day 12 - Secure File Transfer & SELinux Configuration
 
 ## 🛠️ Skills Practiced
 
@@ -28,7 +29,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - `sed`, `grep`, `find`
 - Linux Troubleshooting
 - Basic System Administration
+- SCP and SELinux Configuration
 
-📈 **Progress:** **11/100 Days Completed** 
+📈 **Progress:** **12/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
