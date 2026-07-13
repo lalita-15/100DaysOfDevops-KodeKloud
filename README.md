@@ -18,6 +18,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 10 - Linux Access Control Lists (ACL)
 - ✅ Day 11 - XML String Replacement using `sed`
 - ✅ Day 12 - Secure File Transfer & SELinux Configuration
+- ✅ Day 13 - Cron Job Schedule and Configure allow and deny to user in CronJob
 
 ## 🛠️ Skills Practiced
 
@@ -30,7 +31,9 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Linux Troubleshooting
 - Basic System Administration
 - SCP and SELinux Configuration
+- Crontab, crond, cron configuration access allow and deny
 
-📈 **Progress:** **12/100 Days Completed** 
+
+📈 **Progress:** **13/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
