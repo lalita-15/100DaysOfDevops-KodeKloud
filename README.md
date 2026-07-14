@@ -19,6 +19,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 11 - XML String Replacement using `sed`
 - ✅ Day 12 - Secure File Transfer & SELinux Configuration
 - ✅ Day 13 - Cron Job Schedule and Configure allow and deny to user in CronJob
+- ✅ Day 14 - Linux SSH Authentication & Default GUI Boot Configuration
 
 ## 🛠️ Skills Practiced
 
@@ -32,6 +33,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Basic System Administration
 - SCP and SELinux Configuration
 - Crontab, crond, cron configuration access allow and deny
+- Ssh-keygen, ssh-copy-id  & get.default and set-default, graphical-target
+
 
 
 📈 **Progress:** **13/100 Days Completed** 
