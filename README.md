@@ -20,6 +20,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 12 - Secure File Transfer & SELinux Configuration
 - ✅ Day 13 - Cron Job Schedule and Configure allow and deny to user in CronJob
 - ✅ Day 14 - Linux SSH Authentication & Default GUI Boot Configuration
+- ✅ Day 15 - Set Timezone on Application Servers and Install Ansible on Jump Host
+
 
 ## 🛠️ Skills Practiced
 
@@ -34,7 +36,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - SCP and SELinux Configuration
 - Crontab, crond, cron configuration access allow and deny
 - Ssh-keygen, ssh-copy-id  & get.default and set-default, graphical-target
-
+- Set Timezone on Application Servers and Install Ansible on Jump Host
 
 
 📈 **Progress:** **13/100 Days Completed** 
