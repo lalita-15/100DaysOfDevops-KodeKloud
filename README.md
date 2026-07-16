@@ -21,6 +21,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 13 - Cron Job Schedule and Configure allow and deny to user in CronJob
 - ✅ Day 14 - Linux SSH Authentication & Default GUI Boot Configuration
 - ✅ Day 15 - Set Timezone on Application Servers and Install Ansible on Jump Host
+- ✅ Day 16 - Firewall Configuration & MariaDB Service Troubleshooting
 
 
 ## 🛠️ Skills Practiced
@@ -37,8 +38,10 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Crontab, crond, cron configuration access allow and deny
 - Ssh-keygen, ssh-copy-id  & get.default and set-default, graphical-target
 - Set Timezone on Application Servers and Install Ansible on Jump Host
+- Firewall Configuration & MariaDB Service status,start and permission Troubleshooting
 
 
-📈 **Progress:** **13/100 Days Completed** 
+
+📈 **Progress:** **16/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!

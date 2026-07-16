@@ -59,7 +59,7 @@ ls -l xfusioncorp.sh
 ### Expected Output
 
 ```text
--rwxr-xr-x
+-rwxr-xr-xc
 ```
 
 ---
