@@ -22,6 +22,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 14 - Linux SSH Authentication & Default GUI Boot Configuration
 - ✅ Day 15 - Set Timezone on Application Servers and Install Ansible on Jump Host
 - ✅ Day 16 - Firewall Configuration & MariaDB Service Troubleshooting
+- ✅ Day 17 - Linux Administration & Bash Scripting for BackUp
 
 
 ## 🛠️ Skills Practiced
@@ -39,9 +40,10 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Ssh-keygen, ssh-copy-id  & get.default and set-default, graphical-target
 - Set Timezone on Application Servers and Install Ansible on Jump Host
 - Firewall Configuration & MariaDB Service status,start and permission Troubleshooting
+- Set Process Limits for a User and Automate  Backup Using Bash Script
 
 
 
-📈 **Progress:** **16/100 Days Completed** 
+📈 **Progress:** **17/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
