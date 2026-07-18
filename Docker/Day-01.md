@@ -1,12 +1,11 @@
 # Day 01 - Install Docker CE and Docker Compose
 
 ## Objective
-
 Install Docker CE and Docker Compose on App Server 1 and start the Docker service.
 
 ---
 
-## Task
+## Problem Statement 
 
 - Install Docker CE.
 - Install Docker Compose.
