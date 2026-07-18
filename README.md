@@ -23,6 +23,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 15 - Set Timezone on Application Servers and Install Ansible on Jump Host
 - ✅ Day 16 - Firewall Configuration & MariaDB Service Troubleshooting
 - ✅ Day 17 - Linux Administration & Bash Scripting for BackUp
+- ✅ Day 18 - Install and Configure Tomcat Server
 
 
 ## 🛠️ Skills Practiced
@@ -41,9 +42,9 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Set Timezone on Application Servers and Install Ansible on Jump Host
 - Firewall Configuration & MariaDB Service status,start and permission Troubleshooting
 - Set Process Limits for a User and Automate  Backup Using Bash Script
+-  Install tomcat server, configure port, deploy web app 
 
 
-
-📈 **Progress:** **17/100 Days Completed** 
+📈 **Progress:** **18/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
