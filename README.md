@@ -24,7 +24,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 16 - Firewall Configuration & MariaDB Service Troubleshooting
 - ✅ Day 17 - Linux Administration & Bash Scripting for BackUp
 - ✅ Day 18 - Install and Configure Tomcat Server
-
+- ✅ Day 19 - Apache Service & Network Troubleshooting
 
 ## 🛠️ Skills Practiced
 
@@ -43,8 +43,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Firewall Configuration & MariaDB Service status,start and permission Troubleshooting
 - Set Process Limits for a User and Automate  Backup Using Bash Script
 -  Install tomcat server, configure port, deploy web app 
+- Troubleshoot the port conflict and traffic routing 
 
-
-📈 **Progress:** **18/100 Days Completed** 
+📈 **Progress:** **19/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
