@@ -25,6 +25,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 17 - Linux Administration & Bash Scripting for BackUp
 - ✅ Day 18 - Install and Configure Tomcat Server
 - ✅ Day 19 - Apache Service & Network Troubleshooting
+- ✅ Day 20 - Configure iptables Firewall Rules for Apache Security
 
 ## 🛠️ Skills Practiced
 
@@ -43,8 +44,9 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Firewall Configuration & MariaDB Service status,start and permission Troubleshooting
 - Set Process Limits for a User and Automate  Backup Using Bash Script
 -  Install tomcat server, configure port, deploy web app 
-- Troubleshoot the port conflict and traffic routing 
+- Troubleshoot the port conflict and traffic routing
+- Configure iptables, block incoming traffic and allow only load balance 
 
-📈 **Progress:** **19/100 Days Completed** 
+📈 **Progress:** **20/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
