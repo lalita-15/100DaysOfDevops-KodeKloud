@@ -26,6 +26,10 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 18 - Install and Configure Tomcat Server
 - ✅ Day 19 - Apache Service & Network Troubleshooting
 - ✅ Day 20 - Configure iptables Firewall Rules for Apache Security
+- ✅ Day 21 - Troubleshooting Apache Service Unavailability
+- ✅ Day 22 - Install and Configure Nginx with SSL
+- ✅ Day 23 - PostgreSQL Database Setup for Application Deployment
+- ✅ Day 24 -  Install and Configure MariaDB Database Server
 
 ## 🛠️ Skills Practiced
 
@@ -46,7 +50,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 -  Install tomcat server, configure port, deploy web app 
 - Troubleshoot the port conflict and traffic routing
 - Configure iptables, block incoming traffic and allow only load balance 
+- Install and Configure MariaDB Database Server create database and user grant permission to user
 
-📈 **Progress:** **20/100 Days Completed** 
+📈 **Progress:** **24/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
