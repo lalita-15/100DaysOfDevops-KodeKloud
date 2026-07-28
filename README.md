@@ -30,6 +30,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 22 - Install and Configure Nginx with SSL
 - ✅ Day 23 - PostgreSQL Database Setup for Application Deployment
 - ✅ Day 24 -  Install and Configure MariaDB Database Server
+- ✅ Day 24 - Host Multiple Static Websites on Apache(httpd) 
 
 ## 🛠️ Skills Practiced
 
@@ -51,7 +52,9 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Troubleshoot the port conflict and traffic routing
 - Configure iptables, block incoming traffic and allow only load balance 
 - Install and Configure MariaDB Database Server create database and user grant permission to user
+- single Apache web server can host multiple static websites
 
-📈 **Progress:** **24/100 Days Completed** 
+
+📈 **Progress:** **25/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
