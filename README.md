@@ -32,6 +32,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 24 -  Install and Configure MariaDB Database Server
 - ✅ Day 24 - Host Multiple Static Websites on Apache(httpd) 
 - ✅ Day 24 - Fork a Git Repository
+- ✅ Day 24 - Git Branching
 
 ## 🛠️ Skills Practiced
 
@@ -55,8 +56,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Install and Configure MariaDB Database Server create database and user grant permission to user
 - single Apache web server can host multiple static websites
 - Fork a Git Repository Using Gitea
+- Git Branching, Merging & Remote Push
 
-
-📈 **Progress:** **25/100 Days Completed** 
+📈 **Progress:** **27/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
