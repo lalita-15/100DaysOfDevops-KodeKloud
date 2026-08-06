@@ -30,9 +30,11 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 22 - Install and Configure Nginx with SSL
 - ✅ Day 23 - PostgreSQL Database Setup for Application Deployment
 - ✅ Day 24 -  Install and Configure MariaDB Database Server
-- ✅ Day 24 - Host Multiple Static Websites on Apache(httpd) 
-- ✅ Day 24 - Fork a Git Repository
-- ✅ Day 24 - Git Branching
+- ✅ Day 25 - Host Multiple Static Websites on Apache(httpd) 
+- ✅ Day 26 - Fork a Git Repository
+- ✅ Day 27 - Git Branching
+- ✅ Day 28 - Git Manage Remotes
+
 
 ## 🛠️ Skills Practiced
 
@@ -57,7 +59,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - single Apache web server can host multiple static websites
 - Fork a Git Repository Using Gitea
 - Git Branching, Merging & Remote Push
+- it Remote Management and Push to New Remote
 
-📈 **Progress:** **27/100 Days Completed** 
+📈 **Progress:** **28/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
