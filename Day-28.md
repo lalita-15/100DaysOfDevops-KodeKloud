@@ -1,4 +1,4 @@
-# Day XX - Git Remote Management and Push to New Remote
+# Day 28 - Git Remote Management and Push to New Remote
 
 ## Objective
 Update the Git repository by adding a new remote, copy a file into the repository, commit the changes, and push the `master` branch to the newly added remote.
