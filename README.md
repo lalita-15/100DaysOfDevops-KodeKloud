@@ -34,6 +34,9 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 26 - Fork a Git Repository
 - ✅ Day 27 - Git Branching
 - ✅ Day 28 - Git Manage Remotes
+- ✅ Day 28 - it Revert Latest Commit
+
+
 
 
 ## 🛠️ Skills Practiced
@@ -60,7 +63,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Fork a Git Repository Using Gitea
 - Git Branching, Merging & Remote Push
 - it Remote Management and Push to New Remote
+- Git Revert Latest Commit
 
-📈 **Progress:** **28/100 Days Completed** 
+📈 **Progress:** **29/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
