@@ -34,7 +34,9 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 26 - Fork a Git Repository
 - ✅ Day 27 - Git Branching
 - ✅ Day 28 - Git Manage Remotes
-- ✅ Day 28 - it Revert Latest Commit
+- ✅ Day 29 - it Revert Latest Commit
+- ✅ Day 30 - Git Cherry-Pick
+
 
 
 
@@ -64,7 +66,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Git Branching, Merging & Remote Push
 - it Remote Management and Push to New Remote
 - Git Revert Latest Commit
+- Commit only one commnad from another branch to master
 
-📈 **Progress:** **29/100 Days Completed** 
+📈 **Progress:** **30/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
