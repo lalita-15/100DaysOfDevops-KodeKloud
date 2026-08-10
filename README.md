@@ -36,6 +36,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 28 - Git Manage Remotes
 - ✅ Day 29 - it Revert Latest Commit
 - ✅ Day 30 - Git Cherry-Pick
+- ✅ Day 30 - Git Pull Request, Code Review & Merge with Gitea
 
 
 
@@ -67,7 +68,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - it Remote Management and Push to New Remote
 - Git Revert Latest Commit
 - Commit only one commnad from another branch to master
+- - ✅ Day 30 -
 
-📈 **Progress:** **30/100 Days Completed** 
+📈 **Progress:** **31/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
