@@ -1,4 +1,4 @@
-## Day 31 – Git Stash: Restore and Push Stashed Changes
+## Day 32 – Git Stash: Restore and Push Stashed Changes
 
 ## Task
 
