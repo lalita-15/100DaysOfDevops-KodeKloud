@@ -38,6 +38,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 30 - Git Cherry-Pick
 - ✅ Day 31 - Git Pull Request, Code Review & Merge with Gitea
 - ✅ Day 32 - Git Stash: Restore and Push Stashed Changes
+- ✅ Day 33 - Git Push & Conflict Resolution with Gitea
 
 
 
@@ -70,6 +71,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Git Revert Latest Commit
 - Commit only one commnad from another branch to master
 - Git Stash: Restore and Push Stashed Changes
+- Git Push & Conflict Resolution with Gitea
 
 📈 **Progress:** **31/100 Days Completed** 
 
