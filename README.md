@@ -39,6 +39,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 31 - Git Pull Request, Code Review & Merge with Gitea
 - ✅ Day 32 - Git Stash: Restore and Push Stashed Changes
 - ✅ Day 33 - Git Push & Conflict Resolution with Gitea
+- ✅ Day 34 - Copy Encrypted File to Docker Container
 
 
 
@@ -72,7 +73,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Commit only one commnad from another branch to master
 - Git Stash: Restore and Push Stashed Changes
 - Git Push & Conflict Resolution with Gitea
+- Copy Encrypted File from Docker host to  Docker Container 
 
-📈 **Progress:** **31/100 Days Completed** 
+📈 **Progress:** **34/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
