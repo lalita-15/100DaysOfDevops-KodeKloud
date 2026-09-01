@@ -40,6 +40,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 32 - Git Stash: Restore and Push Stashed Changes
 - ✅ Day 33 - Git Push & Conflict Resolution with Gitea
 - ✅ Day 34 - Copy Encrypted File to Docker Container
+- ✅ Day 35 – Configure Apache2 in Docker Container
 
 
 
@@ -74,6 +75,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Git Stash: Restore and Push Stashed Changes
 - Git Push & Conflict Resolution with Gitea
 - Copy Encrypted File from Docker host to  Docker Container 
+- Configure Apache2 in Docker Container
 
 📈 **Progress:** **34/100 Days Completed** 
 
