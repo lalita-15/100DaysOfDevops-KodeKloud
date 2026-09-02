@@ -41,6 +41,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 33 - Git Push & Conflict Resolution with Gitea
 - ✅ Day 34 - Copy Encrypted File to Docker Container
 - ✅ Day 35 – Configure Apache2 in Docker Container
+- ✅ Day 35 – Build a Custom Apache2 Docker Image
 
 
 
@@ -76,7 +77,9 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Git Push & Conflict Resolution with Gitea
 - Copy Encrypted File from Docker host to  Docker Container 
 - Configure Apache2 in Docker Container
+- Build a Custom Apache2 Docker Image
 
-📈 **Progress:** **34/100 Days Completed** 
+
+📈 **Progress:** **36/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
