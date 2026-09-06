@@ -44,6 +44,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 36 – Build a Custom Apache2 Docker Image
 - ✅ Day 37 - Docker Network – Custom Bridge Network Configuration
 - ✅ Day 38 - Docker Image Transfer Between Servers
+- ✅ Day 39 - Hosting a Static Website Using Docker Compose
 
 
 
@@ -81,7 +82,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Build a Custom Apache2 Docker Image
 - Custom Bridge Network Configuration
 - Docker Image Transfer Between Servers
+- Hosting a Static Website Using Docker Compose
 
-📈 **Progress:** **38/100 Days Completed** 
+📈 **Progress:** **39/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
