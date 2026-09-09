@@ -45,6 +45,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 37 - Docker Network – Custom Bridge Network Configuration
 - ✅ Day 38 - Docker Image Transfer Between Servers
 - ✅ Day 39 - Hosting a Static Website Using Docker Compose
+- ✅ Day 40 - Dockerize Python Application and Deploy
 
 
 
@@ -83,7 +84,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Custom Bridge Network Configuration
 - Docker Image Transfer Between Servers
 - Hosting a Static Website Using Docker Compose
+- Dockerize Python Application and Deploy
 
-📈 **Progress:** **39/100 Days Completed** 
+📈 **Progress:** **40/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
