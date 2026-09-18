@@ -46,6 +46,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 38 - Docker Image Transfer Between Servers
 - ✅ Day 39 - Hosting a Static Website Using Docker Compose
 - ✅ Day 40 - Dockerize Python Application and Deploy
+- ✅ Day 41 - kubernetes Shared Volume Using `emptyDir
 
 
 
@@ -85,7 +86,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Docker Image Transfer Between Servers
 - Hosting a Static Website Using Docker Compose
 - Dockerize Python Application and Deploy
+- Shared data between two containers in a Pod
 
-📈 **Progress:** **40/100 Days Completed** 
+📈 **Progress:** **41/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
