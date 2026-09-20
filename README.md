@@ -47,7 +47,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 39 - Hosting a Static Website Using Docker Compose
 - ✅ Day 40 - Dockerize Python Application and Deploy
 - ✅ Day 41 - kubernetes Shared Volume Using `emptyDir
-
+- ✅ Day 42 - Kubernetes sidecar containers logging
 
 
 
@@ -87,7 +87,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Hosting a Static Website Using Docker Compose
 - Dockerize Python Application and Deploy
 - Shared data between two containers in a Pod
+- Kubernetes Sidecar Pattern | Nginx Logging with Shared emptyDir Volume
 
-📈 **Progress:** **41/100 Days Completed** 
+📈 **Progress:** **42/100 Days Completed** 
 
 More Linux & DevOps labs coming soon!
