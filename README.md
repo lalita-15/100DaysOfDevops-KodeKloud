@@ -48,7 +48,8 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - ✅ Day 40 - Dockerize Python Application and Deploy
 - ✅ Day 41 - kubernetes Shared Volume Using `emptyDir
 - ✅ Day 42 - Kubernetes sidecar containers logging
-- ✅ Day 42 - Kubernetes Persistent Storage + NodePort Service
+- ✅ Day 43 - Kubernetes Persistent Storage + NodePort Service
+- ✅ Day 44 - Kubernetes Init Container with Shared emptyDir Volume
 
 
 
@@ -90,7 +91,7 @@ This repository contains my hands-on Linux Administration practice through **Kod
 - Shared data between two containers in a Pod
 - Kubernetes Sidecar Pattern | Nginx Logging with Shared emptyDir Volume
 - How Kubernetes Provides Persistent Storage to an Application and Exposes That Application Through a NodePort Service
-
+- Kubernetes Init Container with Shared emptyDir Volume
 
 📈 **Progress:** **43/100 Days Completed** 
 
